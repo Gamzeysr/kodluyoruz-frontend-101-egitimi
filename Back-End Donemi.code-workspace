@@ -1,0 +1,21 @@
+{
+  "folders": [
+	{
+		"name": "Full-Stack",
+		"path": "."
+	},
+	{
+		"name": "HTML5",
+		"path": "..\\HTML5"
+	},
+	{
+		"name": "JAVASCRIPT_MK",
+		"path": "..\\JAVASCRIPT_MK"
+	},
+	{
+		"name": "SQL",
+		"path": "..\\SQL"
+	}
+],
+  "settings": {}
+}
